@@ -52,7 +52,6 @@ contributor:
   - dcite:Author
   - dcite:Supervision
   schemaKey: Person
-- {}
 dateCreated: '2026-04-06T15:33:26.022201+00:00'
 description: Binary files of electrophysiology data
 ethicsApproval: []
